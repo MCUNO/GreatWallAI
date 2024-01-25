@@ -19,4 +19,19 @@ It was very, very easy! just download the `ai.py` or copy the code to your Pytho
 4.它的AI效果没有ChatGPT好  
 5.它只有中文版 
 ##
+##Update Logs更新日志
+1.0.0
+1.1.0
+1.2.0
+
+
+
+
+
+
+
+
+
+
+
 ##
